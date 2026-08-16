@@ -59,7 +59,9 @@ Opened a fresh terminal session and connected using only the SSH key — confirm
 
 ## Screenshots
 
-*(screenshots added below)*
+<img width="1920" height="1020" alt="Screenshot 2026-08-16 113731" src="https://github.com/user-attachments/assets/6ea08e9a-429a-4f11-b8c2-8ae2ba229e61" />
+<img width="1920" height="1020" alt="Screenshot 2026-08-16 114119" src="https://github.com/user-attachments/assets/1efe8f93-d59e-42cc-bcfd-f77d590568d7" />
+<img width="1920" height="1020" alt="Screenshot 2026-08-16 114317" src="https://github.com/user-attachments/assets/d37d4a86-8cd9-4b03-ba59-ff99662aea06" />
 
 ## What I Learned
 
